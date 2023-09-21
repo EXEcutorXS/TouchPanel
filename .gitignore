@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+# My stuff
+*.crf
+*.hex
+Objects/
+Listings/
+JLinkLog.txt
